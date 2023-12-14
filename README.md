@@ -1,2 +1,2 @@
-# account-service-fastify
-user sign-up &amp; sign-in api service using nodejs fastify
+# account-python
+user sign-up & sign-in api service using python flask, fastapi, django framework
